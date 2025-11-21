@@ -1,0 +1,30 @@
+# Python / Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+ENV/
+*.env
+
+# Django
+/media/
+staticfiles/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# pip
+pip-wheel-metadata/
+*.egg-info/
+
+# Pytest / coverage
+htmlcov/
+.coverage
